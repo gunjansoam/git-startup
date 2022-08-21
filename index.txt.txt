@@ -1,1 +1,4 @@
 i am starting to learn use of git version 2
+.ssh/id_ed25519.pub
+clip < ~/.ssh/id_ed25519.pub
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHJm2FdncsMdEDtnPNgyJFvDRTB54dKQuFs44gxr5PYJ gsoam3626@gmail.com
